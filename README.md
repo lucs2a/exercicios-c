@@ -1,2 +1,2 @@
-# exercicios-c
-Repositório para armazenar exercícios de linguagem C.
+# Exercicios C
+Repositório para armazenar meus exercícios de linguagem C. O objetivo real é aprender a usar Git e GitHub.
