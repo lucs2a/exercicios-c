@@ -1,3 +1,4 @@
+//Primeiros 20 termos da sequencia de Fibonacci
 #include <stdio.h>
 
 int main()
