@@ -35,9 +35,5 @@ int main() {
 		}
 	} while(buscar != 0);
 
-
-
-
-
 	return 0;
 }
